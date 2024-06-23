@@ -8,7 +8,7 @@
 
             
 </div>
-<div>
+<div id="badges" align="center">
   <a href="https://www.facebook.com/tuananhuit/">
     <img src="https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=white&style=for-the-badge" />
   </a>
