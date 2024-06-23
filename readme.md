@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=white&style=for-the-badge" />
   </a>
   
-  <a href="LINKEDIN_PROFILE_LINK_HERE">
+  <a href="https://www.linkedin.com/in/nguy%E1%BB%85n-kh%C3%A1nh-tu%E1%BA%A5n-anh-82505a285/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=LinkedIn&logoColor=white&style=for-the-badge" />
   </a>
 </div>
