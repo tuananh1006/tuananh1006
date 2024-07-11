@@ -26,7 +26,7 @@
 ### 👨‍💻 About me :
 - 👨‍🎓 I am currently a student of information technology majoring in Vietnam Japan program at VNUHCM - University of Information Technology (UIT).
 - 🔥 My future orientation is to work in Japan
-- 📖 Currently I'm actively developing my skills and exploring AI algorithms like machine learning and deep learning .
+- 📖 Currently I'm actively developing my skills in MLOps and exploring AI algorithms like machine learning and deep learning .
 
 --- 
 
