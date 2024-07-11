@@ -48,6 +48,6 @@
 ### 🔥 My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TuanAnh1006&theme=tokyonight_duo&border_radius=10)](https://git.io/streak-stats)
 
-<p align='center'>
+<p>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tuananh1006&show_icons=true&locale=en&layout=compact" alt="tuananh1006"   />
 </p>
