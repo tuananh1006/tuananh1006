@@ -47,7 +47,9 @@
 
 ---
 
-### 🔥 My Stats :[![GitHub Streak](https://streak-stats.demolab.com/?user=tuananh1006)](https://git.io/streak-stats)
+### 🔥 My Stats :
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=tuananh1006)](https://git.io/streak-stats)
 
 <p>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tuananh1006&show_icons=true&locale=en&layout=compact" alt="tuananh1006"   />
