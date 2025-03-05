@@ -42,7 +42,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" width="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" width="40" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" width="40" />
 </div>
 
 ---
